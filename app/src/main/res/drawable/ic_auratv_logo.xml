@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Скруглённый стеклянный корпус иконки -->
+    <path android:pathData="M24,10 L84,10 A14,14 0 0 1 98,24 L98,84 A14,14 0 0 1 84,98 L24,98 A14,14 0 0 1 10,84 L10,24 A14,14 0 0 1 24,10 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="98"
+                android:endY="98"
+                android:startX="10"
+                android:startY="10"
+                android:type="linear">
+                <item android:color="#2563EB" android:offset="0.0" />
+                <item android:color="#06B6D4" android:offset="0.5" />
+                <item android:color="#7C3AED" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Внутреннее полупрозрачное стекло -->
+    <path
+        android:fillColor="#26FFFFFF"
+        android:pathData="M26,15 L82,15 A11,11 0 0 1 93,26 L93,82 A11,11 0 0 1 82,93 L26,93 A11,11 0 0 1 15,82 L15,26 A11,11 0 0 1 26,15 Z" />
+
+    <!-- Световой ореол вокруг кнопки воспроизведения -->
+    <path
+        android:fillColor="#40FFFFFF"
+        android:pathData="M54,28 A26,26 0 1,0 54,80 A26,26 0 1,0 54,28 Z" />
+
+    <!-- Знак Play (кристалл эфира) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,38 L71,54 L45,70 Z" />
+</vector>
