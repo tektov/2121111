@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Кинозал 1 — Премьеры и блокбастеры" group-title="Боевик" tvg-year="2024" tvg-country="США" tvg-desc="Динамичные премьеры, остросюжетные боевики и высокобюджетные блокбастеры в высоком качестве.",Кинозал 1 — Премьеры и блокбастеры [2024 • Боевик • США]
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-name="Кинозал 2 — Легенды приключений" group-title="Приключения" tvg-year="2023" tvg-country="США" tvg-desc="Захватывающие путешествия, фэнтези и приключенческое кино для вечернего просмотра.",Кинозал 2 — Легенды приключений [2023 • Приключения • США]
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Кинозал 3 — Анимация и семейное кино" group-title="Мультфильмы" tvg-year="2024" tvg-country="Россия" tvg-desc="Лучшие мультфильмы и добрые семейные истории для детей и взрослых.",Кинозал 3 — Анимация и семейное кино [2024 • Мультфильмы • Россия]
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/mult-sd/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 4 — Документальные хроники" group-title="Документальное" tvg-year="2023" tvg-country="Россия" tvg-desc="Наука, экономика, расследования и документальные фильмы о современном мире.",Кинозал 4 — Документальные хроники [2023 • Документальное • Россия]
+https://online-video.rbc.ru/spb/rbctv_spb/index.m3u8
+#EXTINF:-1 tvg-name="Кинозал 5 — Хиты сериалов и шоу" group-title="Сериалы" tvg-year="2024" tvg-country="Россия" tvg-desc="Популярные комедийные и драматические сериалы, а также развлекательные шоу.",Кинозал 5 — Хиты сериалов и шоу [2024 • Сериалы • Россия]
+https://sts.cdnvideo.ru/sts/sts_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Кинозал 6 — Драмы и мелодрамы" group-title="Драма" tvg-year="2022" tvg-country="Россия" tvg-desc="Трогательные жизненные истории, мелодрамы и кино о человеческих судьбах.",Кинозал 6 — Драмы и мелодрамы [2022 • Драма • Россия]
+https://domashny.cdnvideo.ru/domashny/domashny_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Кинозал 7 — Фантастика и мистика" group-title="Фантастика" tvg-year="2023" tvg-country="Великобритания" tvg-desc="Загадочные миры, мистические триллеры и научная фантастика.",Кинозал 7 — Фантастика и мистика [2023 • Фантастика • Великобритания]
+https://tv3.cdnvideo.ru/tv3/tv3_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Кинозал 8 — Комедии и путешествия" group-title="Комедия" tvg-year="2024" tvg-country="Россия" tvg-desc="Лёгкие комедии, тревел-проекты и юмористические передачи.",Кинозал 8 — Комедии и путешествия [2024 • Комедия • Россия]
+https://friday.cdnvideo.ru/friday/friday_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Кинозал 9 — Остросюжетный детектив" group-title="Триллер" tvg-year="2022" tvg-country="Россия" tvg-desc="Криминальные расследования, остросюжетные детективы и триллеры.",Кинозал 9 — Остросюжетный детектив [2022 • Триллер • Россия]
+https://ntv-live.cdnvideo.ru/ntv/ntv_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="Кинозал 10 — Культура и классика кино" group-title="Классика" tvg-year="1985" tvg-country="СССР" tvg-desc="Золотой фонд советского и мирового кинематографа, театральные постановки и документалистика.",Кинозал 10 — Культура и классика кино [1985 • Классика • СССР]
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
